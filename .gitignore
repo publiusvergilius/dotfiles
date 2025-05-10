@@ -1,0 +1,9 @@
+# Ignore everything
+*
+teste/*
+
+# Not ignores
+!.gitignore
+!README.md
+!teste
+!teste/public

@@ -1,0 +1,4 @@
+# dotfiles
+.config
+nvim
+kitty
